@@ -1,8 +1,8 @@
 class GoodguideGitHooks < Formula
   homepage "https://github.com/GoodGuide/goodguide-git-hooks"
 
-  version "0.0.7"
-  sha1 "a81e3e2994dc1297682eb23bb0612e861edea02f"
+  version "0.0.8"
+  sha1 "8202fae29f6349096f7b691ac3dc48fa7c9472df"
 
   url "https://github.com/GoodGuide/goodguide-git-hooks/releases/download/v#{version}/goodguide-git-hooks_#{version}_darwin_amd64.tar.gz"
 
